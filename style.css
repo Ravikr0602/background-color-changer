@@ -69,3 +69,22 @@
   padding-right: 10px;
   color:  #ff0047;
 }
+
+@media screen and (max-width:768px)
+{
+  .contanier 
+  {
+    background-image: none;
+  }
+  .main_box 
+  {
+    width: 80%;
+    
+  }
+  .btn-changer 
+  {
+    font-size: 0.9rem;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
